@@ -1,3 +1,4 @@
+--GitHub Version 1.0 2018-08-09
 -- 用户表
 CREATE TABLE `user` (
   `id` int(11) NOT NULL AUTO_INCREMENT COMMENT '行id',
